@@ -5,4 +5,6 @@ script to crash prison life, use this to execute:
 
 also yes, this is indeed FE, i tested it in different devices and both crash.
 
-this script lags the server until it crashes, so when you get disconnected everyone else also does
+this script lags the server until it crashes, so when you get disconnected everyone else also does.
+
+No, this script dosent work on any other game since it uses prison life mechanics.
